@@ -175,4 +175,4 @@ Live Project URL: [https://ineuron-judge.netlify.app/](https://ineuron-judge.net
 <!-- Project screenshot -->
 
 [product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://trending25.netlify.app/
+[project-url]: https://ineuron-judge.netlify.app/
