@@ -21,7 +21,7 @@
     Judge Home Page
     <br />
     <br />
-    <a href="https://trending25.netlify.app/">View Demo</a>
+    <a href="https://ineuron-judge.netlify.app/">View Demo</a>
     ·
     <a href="https://prahladinala.in/contact">Contact</a>
   </p>
@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://trending25.netlify.app/)
+[Live Project URL](https://ineuron-judge.netlify.app/)
 
 <!-- LEARNT -->
 
@@ -122,7 +122,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 Project Link: [https://github.com/prahladinala/Live-Project-3-Judge-Home-Page](https://github.com/prahladinala/Live-Project-3-Judge-Home-Page)
 
-Live Project URL: [https://ineuron-restaurant-page.netlify.app/](https://ineuron-restaurant-page.netlify.app/)
+Live Project URL: [https://ineuron-judge.netlify.app/](https://ineuron-judge.netlify.app/)
 
 <!-- BACK TO TOP -->
 
