@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 60vh;
+    background-color: #2B2922;
+}
+nav{
+    padding: 10px 90px;
+}
+nav .one{
+    float: left;
+}
+nav .two{
+    float: right;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    color: #7E7C75;
+    font-size: 20px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.list-item{
+    padding-top: 10px;
+}
+.list-item:nth-child(4){
+    padding-right: 10px;
+}
+.list-item-active{
+    color: #fff;
+    padding-left: 20px;
+    font-style: bold;
+}
+.list-item{
+    padding-left: 20px;
+}
+.button-start{
+    padding-left: 20px;
+    background-color: transparent;
+    border: 2px solid #655C2C;
+    border-radius: 5px;
+    padding: 10px;
+    color: #655C2C;
+    font-size: 20px;
+    cursor: pointer;
+}
+.judgeimg img{
+    height: 60vh;
+    width: 100%;
+    background-image: 'url(./assets/imageee.jpg);';
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 3rem;
+    margin: 7rem 5rem 3rem;
+}
+.hero-heading {
+    font-size: 5rem;
+    color: #F1F0EF;
+  }
+  
+  .hero-description {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color: #cdcdcd;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 15rem;
+    width: 62%;
+}
+.arrows{
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 60px;
+    width: 100%;
+    padding: 0;
+    margin-top: -5px;
+}
+.arrow-right{
+    padding-left: 10px;
+    background-color: #9f8e35;
+    color: #fff;
+    padding: 20px;
+}
+.arrow-left{
+    padding-right: 10px;
+    background-color: #39372d;
+    color: #9f8e35;
+    padding: 20px;
+}
